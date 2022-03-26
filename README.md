@@ -30,9 +30,6 @@ No this software will not be undetected by av or steal more, this is a free one 
  -  Password For Discord (You get Their Password if They Update it)
  -  Their Whole Credit Card (number, cvc, date, (if They Put one in))
  -  All Their Chrome Passwords And Cookies
-> Webhook looks like this:
-
-<p align="left"><img src="https://i.imgur.com/4KmwB6I.png"</p>
 
 ### 📁・Setting up Hazard Token Grabber.V2
 1. Start off by installing [python](https://www.python.org/) ofc
