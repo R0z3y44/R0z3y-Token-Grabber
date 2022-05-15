@@ -1,6 +1,6 @@
-# R0z3y-Token-Grabber
+# STRPZ-Token-Grabber
 
-#### R0z3y-Token-Grabber-V2 was made by
+#### STRPZ-Token-Grabber-V2 was made by R0z3y44
 Love ❌ code ✅
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked R0z3y Token Grabber V2!
@@ -24,7 +24,7 @@ No this software will not be undetected by av or steal more, this is a free one 
  -  Their Whole Credit Card (number, cvc, date, (if They Put one in))
  -  All Their Chrome Passwords And Cookies
 
-### 📁・Setting up Hazard Token Grabber.V2
+### 📁・Setting up R0z3y Token Grabber.V2
 1. Start off by installing [python](https://www.python.org/) ofc
 2. open main.py with any code editor of your choice and paste your webhook on line 7 (or replace "WEBHOOK_HERE" with the webhook)
 3. run the `setup.bat` and let it do it's things
